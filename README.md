@@ -1,1 +1,4 @@
 # public-posts
+
+
+![](barcode.jpg)
